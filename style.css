@@ -1,0 +1,25 @@
+.hero {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 100%;
+  position: relative;
+}
+.hero .hero.opening {
+  position: absolute;
+}
+
+.opening-image {
+  position: relative;
+  filter: brightness(75%);
+}
+
+.heading {
+  font-family: "PT Sans Caption", sans-serif;
+}
+
+.colombia-sign {
+  width: 100%;
+}
+
+/*# sourceMappingURL=style.css.map */
