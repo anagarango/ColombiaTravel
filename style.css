@@ -40,6 +40,19 @@ body {
   cursor: pointer;
 }
 
+section.information {
+  background-color: #FFF6D6;
+  padding: 2rem 5rem;
+}
+
+.section-head-image {
+  width: 100%;
+}
+
+section p {
+  padding: 1.5rem 0rem;
+}
+
 
 
 /*# sourceMappingURL=style.css.map */
