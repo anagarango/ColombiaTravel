@@ -63,7 +63,8 @@ section.information .section-head-image {
 }
 
 section p {
-  padding: 1rem 0rem 0rem 0rem;
+  padding: 2rem 0rem 0rem 0rem;
+  line-height: 1.5rem;
 }
 section .gallery {
   width: 100%;
